@@ -1,3 +1,4 @@
+gevent==20.12.1
 Keras==2.4.3
 tensorboard==2.4.0
 tensorboard-plugin-wit==1.7.0
